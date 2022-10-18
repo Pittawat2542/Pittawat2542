@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pittawat2542" alt="pittawat2542" /></a> </p>
 
-- 🔭 I’m currently working on [AR Poster Web Platform](https://github.com/Pittawat2542/ar-poster-web)
+- 🔭 I’m currently working on reseach related to simulation, reinforcement learning, and Transformers-based models
 
-- 🌱 I’m currently learning **OutSystems, Rust, Three.js**
+- 🌱 I’m currently learning **Rust, Three.js, Svelte**
 
 - 📝 I regularly write articles on [https://petepittawat.dev](https://petepittawat.dev)
 
